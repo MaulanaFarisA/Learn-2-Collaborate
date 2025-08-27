@@ -5,4 +5,5 @@ halo juga
 hi
 hello
 healoowww
+akan ada banyak perubahan dalam repository ini karena saya sedang belajar
 
